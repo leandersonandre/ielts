@@ -1,6 +1,10 @@
 # IELTS
 
-This repository is my personal diary for the IELTS exam.
+This repository contains my personal notes for the journey in IELTS exam.
+
+## Objective
+
+Achieve IELTS score 6 for the overall exam and minimum score 5.5 for different sections (listening, speaking, writing and speaking). 
 
 
 ## Important dates
