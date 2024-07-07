@@ -22,7 +22,7 @@ Every month, I will focus my studies in a single Skill.
 | July      | Reading             |
 | August    | Writing             |
 | September | Listening           |
-| Octuber   | Speaking            |
+| October   | Speaking            |
 | November  | All skills together |
 | December  | All skills together |
 | January   | All skills together |
