@@ -51,3 +51,7 @@ IELTS xx Academic Student's Book. (Official collection from Camdrige)
 ### Tools
 
 Chatgpt, for the corrections of writing exercises.
+
+Duolingo, gamification studies about grammar.
+
+Elsa App, focused in pronunciation.
