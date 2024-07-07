@@ -13,6 +13,20 @@ I started my focused studies in July, 2024.
 
 I would like to take the test between December, 2024/January 2025.
 
+## General Study Plan
+
+Every month, I will focus my studies in a single Skill.
+
+| Month     | Skills              |
+|-----------|---------------------|
+| July      | Reading             |
+| August    | Writing             |
+| September | Listening           |
+| Octuber   | Speaking            |
+| November  | All skills together |
+| December  | All skills together |
+| January   | All skills together |
+
 ## Resources
 
 ### Podcast
@@ -33,3 +47,7 @@ http://mini-ielts.com
 The Official Cambridge Guide to IELTS Students.
 
 IELTS xx Academic Student's Book. (Official collection from Camdrige)
+
+### Tools
+
+Chatgpt, for the corrections of writing exercises.
