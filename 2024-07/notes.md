@@ -1,4 +1,4 @@
-# July Notes
+# Notes from July, 2024
 
 ## Monday, 15
 
