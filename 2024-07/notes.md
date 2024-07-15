@@ -2,9 +2,10 @@
 
 ## Monday, 15
 
-I decided to take two IELTS Reading mock test per day. The first test in 09:00 and the second in 14:00.
-I will only take this test from Monday to Friday. My weekends is free for other activities.
+I decided to take two IELTS Reading mock tests per day. The first test is at 09:00 and the second is at 14:00. I will only take these tests from Monday to Friday. My weekends are free for other activities.
 
-In each weekday I will dedicate 1hour for reading in english in two blocks of 30min. The texts that I will read should be news, scientific articles, non-fiction and contents related to computation.
+Each weekday, I will dedicate one hour to reading in English, divided into two 30-minute blocks. The texts that I will read should be news articles, scientific articles, non-fiction, and content related to computing.
 
-Finally I need a way to analysis my pontuation in mock tests and total amount of hours dedicated in studies. I think that I can use a spreedsheet.
+Finally, I need a way to analyze my scores on the mock tests and the total amount of hours dedicated to studying. I think I can use a spreadsheet.
+
+**Obs:** I use ChatGPT to correct my writings. The prompt is: please analyze my notes and suggest grammar corrections and explain what is wrong.
